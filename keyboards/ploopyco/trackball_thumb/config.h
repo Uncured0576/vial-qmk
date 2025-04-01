@@ -38,3 +38,7 @@
 #define ENCODER_HIGH_THRES_B 90
 /* Custom encoder needs to specify just how many encoders we have */
 #define NUM_ENCODERS 1
+
+// dragscroll config
+#define PLOOPY_DRAGSCROLL_MOMENTARY
+#define PLOOPY_DRAGSCROLL_INVERT
