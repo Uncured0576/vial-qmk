@@ -10,7 +10,7 @@
         "max_power": 100
     },
     "bootmagic": {
-        "matrix": [0, 3]
+        "matrix": [0, 0]
     },
     "features": {
         "bootmagic": true,
