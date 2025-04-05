@@ -42,3 +42,7 @@
 // dragscroll config
 #define PLOOPY_DRAGSCROLL_MOMENTARY
 #define PLOOPY_DRAGSCROLL_INVERT
+
+// bootmagic
+#define BOOTMAGIC_ROW 0
+#define BOOTMAGIC_COLUMN 3
