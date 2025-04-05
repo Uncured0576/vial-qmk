@@ -13,7 +13,10 @@ BOOTMAGIC_ENABLE = no
 COMMAND_ENABLE = no
 CONSOLE_ENABLE = no
 
-QMK_SETTINGS = yes
+QMK_SETTINGS = no
 LTO_ENABLE = yes
 
 KEY_OVERRIDE_ENABLE = no
+
+# Bootloader selection
+BOOTLOADER = atmel-dfu
